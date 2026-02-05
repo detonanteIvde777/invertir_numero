@@ -19,3 +19,4 @@ ni = r4*1000 + r3*100 + r2*10 + r1
 
 ## constuccion
 
+codigo en el archivo invertir_numero.py
